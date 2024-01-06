@@ -12,7 +12,7 @@ We're actively organizing our code for this repository. It takes some time to en
 
 ```bash
 # Clone the code to local
-[git clone https://github.com/decisionforce/HAIM-DRL.git](https://github.com/zilin-huang/HAIM-DRL.git)
+git clone https://github.com/zilin-huang/HAIM-DRL.git
 cd HAIM-DRL
 
 # Create virtual environment
