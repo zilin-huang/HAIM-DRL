@@ -34,7 +34,7 @@ Also, to prevent driving out of the road which will terminate the episode, pleas
 **Note:** we mask the reward signal for HAIM-DRL agent, so it is a reward-free method.
 
 ### Quick Start
-Since the main experiment of HAIM-DRL takes one hour and requires a steering wheel (Logitech G90), we further provide an 
+Since the main experiment of HAIM-DRL takes one hour and requires a steering wheel (Logitech G920), we further provide an 
 easy task for users to experience HAIM-DRL.
 ```bash
 cd HAIM-DRL/run_main_exp/
