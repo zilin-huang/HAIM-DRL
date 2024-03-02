@@ -137,8 +137,8 @@ conda activate HAIM-DRL-torch
 pip install -e .
 
 # install torch
-conda install pytorch==1.5.0 torchvision==0.6.0 -c pytorch
-conda install condatoolkit==9.2
+conda install pytorch==1.7.1 torchvision==0.8.2 torchaudio==0.7.2 cudatoolkit=11.0 -c pytorch
+conda install cudatoolkit=11.0
 ```
 Now, IWR/HG-Dagger/GAIL can be trained by:
 ```bash
