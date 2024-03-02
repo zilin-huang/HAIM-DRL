@@ -2,7 +2,7 @@
 
 Human as AI Mentor: Enhanced Human-in-the-loop Reinforcement Learning for Safe and Efficient Autonomous Driving (Accepted by Communications in Transportation Research)
 
-![../docs/HAIM-DRL Poster.png](HAIM-DRL_Poster.png)
+<div align=center><img src=./docs/HAIM-DRL_Poster.png width="600"></div>
 
 
 Code Upload in Progress
