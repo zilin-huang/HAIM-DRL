@@ -5,7 +5,7 @@ from distutils.core import setup
 assert sys.version_info.major == 3 and sys.version_info.minor >= 6, "python version >= 3.6 is required"
 
 setup(
-    name="haco",
+    name="HAIM_DRL",
     install_requires=[
         "yapf==0.30.0",
         "tensorflow==2.4.0",
