@@ -146,3 +146,15 @@ cd haim_drl/run_baselines
 python train_[IWR/gail/hg_dagger].py
 ```
 
+
+
+## Reference
+
+```latex
+@article{huang2024human,
+  title={Human as AI Mentor: Enhanced Human-in-the-loop Reinforcement Learning for Safe and Efficient Autonomous Driving},
+  author={Huang, Zilin and Sheng, Zihao and Ma, Chengyuan and Chen, Sikai},
+  journal={arXiv preprint arXiv:2401.03160},
+  year={2024}
+}
+```
